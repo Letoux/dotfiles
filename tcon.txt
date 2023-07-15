@@ -1,0 +1,17 @@
+Les commandes pour les fils de putes:
+
+Emacs:
+	- faire un header --> ctrl + c + h (je crois)
+	- enregistrer --> ctrl + x + s
+	- quitter --> ctrl + x + c
+	- chercher --> ctrl + s
+	- les lignes --> alt + x -- linum-mode
+	- commenter du code --> alt + ;
+	- tab --> alt + i
+
+Blih:
+	- lister les repos --> blih -u nicolas.bontoux@epitech.eu repository list
+	- creer un repo --> blih -u nicolas.bontoux@epitech.eu rpeository create <nom>
+
+Git Tek:
+	- git clone git@git.epitech.eu:/nicolas.bontoux@epitech.eu/<repo>
